@@ -18,4 +18,4 @@ Just a playground where you can throw a problem any silly guys like me will solv
 I __MUST__ swear that you will always follow these things [I Swear](https://realm.io/conduct) if not I will come to your back yard in a stormy night ![You died](https://i.imgur.com/DV1tVcf.gif) 
 
 ## License
-Please refer to the ___LICENSE___ file for further information
+Please refer to the [LICENSE](https://github.com/dm-for-git/grokking_algorithms/blob/master/LICENSE) file for further information
