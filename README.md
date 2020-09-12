@@ -8,6 +8,7 @@ Just a playground where you can throw a problem any silly guys like me will solv
 - You __MUST__ follow coding convention standard some thing like: 
   - [Swift Coding Convention Standard](https://google.github.io/swift/)
   - [Kotlin Coding Convention Standard](https://kotlinlang.org/docs/reference/coding-conventions.html)
+  
  ___Don't be panicked! you can use any coding convention standard which is depened on your programming language.___ 
  - You __MUST__ create a seperate branch for each problem, then create a pull request and assign to me, yes of course ![I'm the final boss](https://i.imgur.com/28NOo1g.gif)
 
