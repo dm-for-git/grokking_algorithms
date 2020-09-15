@@ -11,6 +11,7 @@ Just a playground where you can throw a problem any silly guys like me will solv
   
  ___Don't be panicked! you can use any coding convention standard which is depened on your programming language.___ 
  - You __MUST__ create a seperate branch for each problem, then create a pull request and assign to me, yes of course ![I'm the final boss](https://i.imgur.com/28NOo1g.gif)
+ - Submit your solution in a seperate file for each question which is named as " ___QuestionName-YourGitHubAccountName___ "
 
 ## Testing
 - Your solution __MUST__ pass at least ten test case which have been testing in handcraft way.
