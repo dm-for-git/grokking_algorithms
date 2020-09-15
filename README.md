@@ -14,7 +14,8 @@ Just a playground where you can throw a problem any silly guys like me will solv
  - Submit your solution in a seperate file for each question which is named as " ___QuestionName-YourGitHubAccountName___ "
 
 ## Testing
-- Your solution __MUST__ pass at least ten test case which have been testing in handcraft way.
+- Your solution __MUST__ pass at least ten test case which have been testing in handcraft way. 
+- You need to provide a seperate testing data file which is named " ___QuestionNameTestingData___ ". In this file please provide at least 10 test cases and results as mentioned above
 
 ## Your oath
 I __MUST__ swear that you will always follow these things [I Swear](https://realm.io/conduct) if not I will come to your back yard in a stormy night ![You died](https://i.imgur.com/DV1tVcf.gif) 
