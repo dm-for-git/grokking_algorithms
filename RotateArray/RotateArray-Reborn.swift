@@ -19,7 +19,5 @@ func rotateArray(inputArray: inout [Int], by times: Int) {
     if inputArray.isEmpty || inputArray.count <= times {
         return
     }
-    for _ in 0..<times {
-        shiftRight(anArray: &inputArray)
-    }
+    shiftRight(anArray: &inputArray, by: times)
 }
